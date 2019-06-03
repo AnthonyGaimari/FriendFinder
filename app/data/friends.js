@@ -1,7 +1,7 @@
 var friends = [
 
 {
-    "name":"Ahmed",
+    "name":"Ahmed ",
     "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
     "scores":[
         5,
@@ -21,16 +21,16 @@ var friends = [
     "name":"Fred",
     "photo":"#",
     "scores":[
-        5,
         1,
-        3,
-        4,
-        5,
-        4,
-        2,
-        3,
-        4,
-        5
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+       1
       ]
   },
 
